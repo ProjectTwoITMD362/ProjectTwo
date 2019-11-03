@@ -2,12 +2,11 @@
   Golden Section Modular Scale:
   https://www.modularscale.com/?22&px&1.618
 */
-
 body {
   background-color: #00BFFF;
 }
 
-#header {
+#prodHeader {
   background-color: white;
   height: 15em; /* 250 px */
 }
