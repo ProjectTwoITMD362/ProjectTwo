@@ -2,11 +2,9 @@ a {
     color: #000;
 }
 
-/* header */
-
 .header {
     background-color: #fff;
-    box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
+    box-shadow: 1px 1px 4px 0 rgba(0,0,0,50);
     position: fixed;
     width: 100%;
     z-index: 3;
@@ -35,7 +33,7 @@ a {
 .header .logo {
     display: block;
     float: left;
-    font-size: 2em;
+    font-size: 35px;
     padding: 10px 20px;
     text-decoration: none;
 }
@@ -114,9 +112,7 @@ a {
     top: 0;
 }
 
-/* 48em = 768px */
-
-@media (min-width: 48em) {
+@media (min-width: 1200px) {
     .header li {
         float: left;
     }
