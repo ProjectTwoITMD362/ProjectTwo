@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="css/screen.css">
+    <link rel="stylesheet" href="css/checkout.css">
     <link rel="stylesheet" href="css/navbar.css">
 </head>
 <header class="header">
@@ -16,9 +17,19 @@
         <li><a href="checkout.html">CHECKOUT</a></li>
     </ul>
 </header>
+<body>
+<div class="container">
+    <form action="/action_page.php">
+        <input type="text" id="fname" name="firstname" placeholder="First Name">
+        <input type="text" id="lname" name="lastname" placeholder="Last Name">
+        <input type="text" id="number" name="lastname" placeholder="Phone Number">
+        <input type="text" id="email" name="lastname" placeholder="Email Address">
+        <input type="text" id="mailaddress" name="lastname" placeholder="Mailing Address">
+        <textarea id="subject" placeholder="Cart: " style="height:300px"></textarea>
+        <input type="submit" formaction="postOrder.html" value="Place Order">
+    </form>
+</div>
+</body>
 <footer>
-    <a href="tel:+2244250288">
-        <button class="button button1">Contact Us!</button>
-    </a>
 </footer>
 </html>
