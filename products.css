@@ -1,0 +1,66 @@
+/*
+  Golden Section Modular Scale:
+  https://www.modularscale.com/?22&px&1.618
+*/
+body {
+  background-color: #00BFFF;
+
+}
+
+#prodHeader {
+  background-color: white;
+  padding-top: 10px;
+}
+
+#h1 {
+  color: #00BFFF;
+  text-align: center;
+  font-size: 5em; /* 120 px*/
+  padding: 1em; /* 22px */
+}
+
+#product1 {
+  background-color: white;
+  width: 40em;
+  height: 18em;
+  padding: 1em;
+  float: left;
+  margin: 5em;
+}
+
+#product2 {
+  background-color: white;
+  width: 40em;
+  height: 18em;
+  padding: 1em;
+  float: right;
+  margin: 5em;
+
+}
+
+#product3 {
+  background-color: white;
+  width: 40em;
+  height: 18em;
+  padding: 1em;
+  float: left;
+  margin: 5em;
+}
+
+#product4 {
+  background-color: white;
+  width: 40em;
+  height: 18em;
+  padding: 1em;
+  float: right;
+  margin: 5em;
+
+}
+#product5 {
+  background-color: white;
+  width: 40em;
+  height: 18em;
+  padding: 1em;
+  float: left;
+  margin: 5em;
+}
