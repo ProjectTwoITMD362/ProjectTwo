@@ -70,3 +70,33 @@ body {
   float: right;
   position: relative;
 }
+
+#Ultrasound_Table {
+  height: 18em;
+  width: 15em;
+  position: relative;
+}
+
+#Time_Meter {
+  height: 18em;
+  width: 15em;
+  position: relative;
+}
+
+#PACS_Workstations {
+  height: 18em;
+  width: 15em;
+  position: relative;
+}
+
+#Mammoviewer_AVS {
+  height: 18em;
+  width: 15em;
+  position: relative;
+}
+
+#Exam_Table {
+  height: 18em;
+  width: 15em;
+  position: relative;
+}
