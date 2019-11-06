@@ -26,6 +26,7 @@ body {
   padding: 1em;
   float: left;
   margin: 5em;
+  position: relative;
 }
 
 #product2 {
@@ -63,4 +64,9 @@ body {
   padding: 1em;
   float: left;
   margin: 5em;
+}
+
+.button4 {
+  float: right;
+  position: relative;
 }
