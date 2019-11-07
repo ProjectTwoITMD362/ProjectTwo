@@ -116,7 +116,6 @@ body {
     padding: 1em;
     float: right;
     margin: 5em;
-
   }
 
   #product3 {
@@ -135,8 +134,8 @@ body {
     padding: 1em;
     float: right;
     margin: 5em;
-
   }
+
   #product5 {
     background-color: white;
     width: 90%;
@@ -149,4 +148,5 @@ body {
   #product1_header {
     text-align: center;
     font-size: 3em;
+  }
 }
