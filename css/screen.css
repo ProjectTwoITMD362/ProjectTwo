@@ -1,3 +1,10 @@
+
+
+/*-------------------------------------------------------------------*/
+                            /* For Mobile*/
+/*-------------------------------------------------------------------*/
+
+
 body{
     background-color: #00BFFF;
     margin: 0;
@@ -7,7 +14,7 @@ body{
     background-color: #173753; /* Green */
     border: none;
     color: white;
-    padding: 60px 80px;
+    padding: 40px 80px;
     text-align: center;
     display: inline-block;
     font-size: 40px;
@@ -100,5 +107,441 @@ body{
 
 }
 
+/*-------------------------------------------------------------------*/
+                          /*For Tablet Viewing*/
+/*-------------------------------------------------------------------*/
+@media only screen and (min-width: 600px) {
 
 
+  body{
+      background-color: #00BFFF;
+      margin: 0;
+  }
+
+  .button1 {
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 60px 80px;
+      text-align: center;
+      display: inline-block;
+      font-size: 40px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 81%;
+      margin-left: 10%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+      margin-bottom: 80px;
+  }
+
+  .button1 {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+  .button2{
+       background-color: #173753; /* Green */
+       border: none;
+       color: white;
+       padding: 60px 80px;
+       text-align: center;
+       display: inline-block;
+       font-size: 40px;
+       cursor: pointer;
+       border-radius: 5px;
+       -webkit-transition-duration: 0.4s; /* Safari */
+       transition-duration: 0.4s;
+       position:center;
+       width: 65%;
+       margin-left: 10%;
+       margin-top: 150px;
+       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      margin-bottom: 40px;
+
+  }
+
+  .button3{
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 60px 80px;
+      text-align: center;
+      display: inline-block;
+      font-size: 40px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 81%;
+      margin-left: 10%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+      margin-bottom: 40px;
+
+  }
+  .button4{
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 35px 40px;
+      text-align: center;
+      display: inline-block;
+      font-size: 30px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 40%;
+      margin-left: 29%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+  }
+  #featured{
+      margin: auto;
+      padding-top: 100px;
+      text-align: center;
+      padding-bottom: 50px;
+      font-size: 50px;
+      text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  }
+  #homeImage{
+      margin-left: 25%;
+      margin-top: 20%;
+
+  }
+}
+
+
+/*----------------------------------------------------------------------------*/
+@media only screen and (max-width: 600px){
+
+  body{
+      background-color: #00BFFF;
+      margin: 0;
+  }
+
+  .button1 {
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 60px 80px;
+      text-align: center;
+      display: inline-block;
+      font-size: 40px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 81%;
+      margin-left: 10%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+      margin-bottom: 80px;
+  }
+
+  .button1 {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+  .button2{
+       background-color: #173753; /* Green */
+       border: none;
+       color: white;
+       padding: 60px 80px;
+       text-align: center;
+       display: inline-block;
+       font-size: 40px;
+       cursor: pointer;
+       border-radius: 5px;
+       -webkit-transition-duration: 0.4s; /* Safari */
+       transition-duration: 0.4s;
+       position:center;
+       width: 65%;
+       margin-left: 10%;
+       margin-top: 150px;
+       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      margin-bottom: 40px;
+
+  }
+
+  .button3{
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 60px 80px;
+      text-align: center;
+      display: inline-block;
+      font-size: 40px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 81%;
+      margin-left: 10%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+      margin-bottom: 40px;
+
+  }
+  .button4{
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 35px 40px;
+      text-align: center;
+      display: inline-block;
+      font-size: 30px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 40%;
+      margin-left: 29%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+  }
+  #featured{
+      margin: auto;
+      padding-top: 100px;
+      text-align: center;
+      padding-bottom: 50px;
+      font-size: 50px;
+      text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  }
+  #homeImage{
+      margin-left: 25%;
+      margin-top: 20%;
+
+  }
+}
+
+
+
+/*-------------------------------------------------------------------*/
+                              /*Desktop view*/
+/*-------------------------------------------------------------------*/
+
+@media only screen and (min-width: 600px) {
+
+
+  body{
+      background-color: #00BFFF;
+      margin: 0;
+  }
+
+  .button1 {
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 60px 80px;
+      text-align: center;
+      display: inline-block;
+      font-size: 40px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 81%;
+      margin-left: 10%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+      margin-bottom: 80px;
+  }
+
+  .button1 {
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+  }
+
+  .button2{
+       background-color: #173753; /* Green */
+       border: none;
+       color: white;
+       padding: 60px 80px;
+       text-align: center;
+       display: inline-block;
+       font-size: 40px;
+       cursor: pointer;
+       border-radius: 5px;
+       -webkit-transition-duration: 0.4s; /* Safari */
+       transition-duration: 0.4s;
+       position:center;
+       width: 65%;
+       margin-left: 10%;
+       margin-top: 150px;
+       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      margin-bottom: 40px;
+
+  }
+
+  .button3{
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 60px 80px;
+      text-align: center;
+      display: inline-block;
+      font-size: 40px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 81%;
+      margin-left: 10%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+      margin-bottom: 40px;
+
+  }
+  .button4{
+      background-color: #173753; /* Green */
+      border: none;
+      color: white;
+      padding: 35px 40px;
+      text-align: center;
+      display: inline-block;
+      font-size: 30px;
+      cursor: pointer;
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+      position:center;
+      width: 40%;
+      margin-left: 29%;
+      margin-top: 100px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      border-radius: 8px;
+  }
+  #featured{
+      margin: auto;
+      padding-top: 100px;
+      text-align: center;
+      padding-bottom: 50px;
+      font-size: 50px;
+      text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+  }
+  #homeImage{
+      margin-left: 25%;
+      margin-top: 20%;
+
+  }
+}
+
+/*----------------------------------------------------------------------------*/
+
+  @media only screen and (max-width: 600px){
+    body{
+        background-color: #00BFFF;
+        margin: 0;
+    }
+
+    .button1 {
+        background-color: #173753; /* Green */
+        border: none;
+        color: white;
+        padding: 60px 80px;
+        text-align: center;
+        display: inline-block;
+        font-size: 40px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        position:center;
+        width: 81%;
+        margin-left: 10%;
+        margin-top: 100px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        border-radius: 8px;
+        margin-bottom: 80px;
+    }
+
+    .button1 {
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    }
+
+    .button2{
+         background-color: #173753; /* Green */
+         border: none;
+         color: white;
+         padding: 60px 80px;
+         text-align: center;
+         display: inline-block;
+         font-size: 40px;
+         cursor: pointer;
+         border-radius: 5px;
+         -webkit-transition-duration: 0.4s; /* Safari */
+         transition-duration: 0.4s;
+         position:center;
+         width: 65%;
+         margin-left: 10%;
+         margin-top: 150px;
+         box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        margin-bottom: 40px;
+
+    }
+
+    .button3{
+        background-color: #173753; /* Green */
+        border: none;
+        color: white;
+        padding: 60px 80px;
+        text-align: center;
+        display: inline-block;
+        font-size: 40px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        position:center;
+        width: 81%;
+        margin-left: 10%;
+        margin-top: 100px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        border-radius: 8px;
+        margin-bottom: 40px;
+
+    }
+    .button4{
+        background-color: #173753; /* Green */
+        border: none;
+        color: white;
+        padding: 35px 40px;
+        text-align: center;
+        display: inline-block;
+        font-size: 30px;
+        cursor: pointer;
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+        position:center;
+        width: 40%;
+        margin-left: 29%;
+        margin-top: 100px;
+        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+        border-radius: 8px;
+    }
+    #featured{
+        margin: auto;
+        padding-top: 100px;
+        text-align: center;
+        padding-bottom: 50px;
+        font-size: 50px;
+        text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+    }
+    #homeImage{
+        margin-left: 25%;
+        margin-top: 20%;
+
+    }
+  }
+
+/*-------------------------------------------------------------------*/
+/*-------------------------------------------------------------------*/
+/*------------------------      END    ------------------------------*/
+/*-------------------------------------------------------------------*/
