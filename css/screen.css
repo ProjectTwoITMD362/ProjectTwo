@@ -21,7 +21,6 @@ body{
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    position:center;
     width: 81%;
     margin-left: 10%;
     margin-top: 100px;
@@ -46,7 +45,6 @@ body{
      border-radius: 5px;
      -webkit-transition-duration: 0.4s; /* Safari */
      transition-duration: 0.4s;
-     position:center;
      width: 65%;
      margin-left: 10%;
      margin-top: 150px;
@@ -66,7 +64,6 @@ body{
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    position:center;
     width: 81%;
     margin-left: 10%;
     margin-top: 100px;
@@ -86,7 +83,6 @@ body{
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
-    position:center;
     width: 40%;
     margin-left: 29%;
     margin-top: 100px;
