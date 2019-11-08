@@ -160,6 +160,7 @@ body{
        margin-top: 150px;
        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
       margin-bottom: 40px;
+      text-decoration:none;
 
   }
 
@@ -238,6 +239,7 @@ body{
       transition-duration: 0.4s;
       position:center;
       width: 81%;
+      text-decoration:none;
       margin-left: 10%;
       margin-top: 100px;
       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
