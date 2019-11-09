@@ -34,8 +34,7 @@ section{
   transition: 0.3s;
 }
 
-.products .prodimage{
-	background-color:none;
+.prodimage{
 	width:100%;
 	height:100%;
 }
