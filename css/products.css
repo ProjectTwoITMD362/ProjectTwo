@@ -27,7 +27,7 @@ section{
 }
 
 .products {
-  border: solid #eee;
+	background-color:#eee;
   margin: 0;
   padding: 0;
   -webkit-transition: 0.3s;
