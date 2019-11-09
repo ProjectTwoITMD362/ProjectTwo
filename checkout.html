@@ -2,34 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>X-Ray Inc: Checkout</title>
     <link rel="stylesheet" href="css/screen.css">
     <link rel="stylesheet" href="css/checkout.css">
     <link rel="stylesheet" href="css/navbar.css">
+    <script src="js/postOrder.js" async></script>
 </head>
-<header class="header">
-    <a href="" class="logo">Pacific Northwest X-Ray Inc.</a>
-    <input class="menu-btn" type="checkbox" id="menu-btn" />
-    <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
-    <ul class="menu">
-        <li><a href="index.html">HOME</a></li>
-        <li><a href="products.html">PRODUCTS</a></li>
-        <li><a href="checkout.html">CHECKOUT</a></li>
-    </ul>
-</header>
 <body>
-<div class="container">
-    <form action="/action_page.php">
-        <input type="text" id="fname" name="firstname" placeholder="First Name">
-        <input type="text" id="lname" name="lastname" placeholder="Last Name">
-        <input type="text" id="number" name="lastname" placeholder="Phone Number">
-        <input type="text" id="email" name="lastname" placeholder="Email Address">
-        <input type="text" id="mailaddress" name="lastname" placeholder="Mailing Address">
-        <textarea id="subject" placeholder="Cart: " style="height:300px"></textarea>
-        <input type="submit" formaction="postOrder.html" value="Place Order">
-    </form>
-</div>
+  <header class="header">
+      <a href="" class="logo">Pacific Northwest X-Ray Inc.</a>
+      <input class="menu-btn" type="checkbox" id="menu-btn" />
+      <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+      <ul class="menu">
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="products.html">PRODUCTS</a></li>
+          <li><a href="checkout.html">CHECKOUT</a></li>
+      </ul>
+  </header>
+  <div class="container">
+      <input type="text" id="fname" name="firstname" placeholder="First Name">
+      <input type="text" id="lname" name="lastname" placeholder="Last Name">
+      <input type="text" id="number" name="lastname" placeholder="Phone Number">
+      <input type="text" id="email" name="lastname" placeholder="Email Address">
+      <input type="text" id="mailaddress" name="lastname" placeholder="Mailing Address">
+      <textarea id="subject" placeholder="Cart: " style="height:300px"></textarea>
+        <input type="submit" value="Complete Purchase" id="submit_button"/>
+  </div>
 </body>
-<footer>
-</footer>
+
 </html>

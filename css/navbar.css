@@ -3,12 +3,13 @@ a {
 }
 
 .header {
-    background-color: #fff;
-    box-shadow: 1px 1px 4px 0 rgba(0,0,0,50);
-    position: fixed;
-    width: 100%;
-    height: 6%;
-    z-index: 3;
+	margin-top:0;
+	background-color: #fff;
+	box-shadow: 1px 1px 4px 0 rgba(0,0,0,50);
+	position: fixed;
+	width: 100%;
+  height: 6%;
+	z-index: 3;
 }
 
 .header ul {
@@ -120,18 +121,21 @@ a {
 }
 
 @media (min-width: 1200px) {
-    .header li {
-        float: left;
-    }
-    .header li a {
-        padding: 20px 30px;
-    }
-    .header .menu {
-        clear: none;
-        float: right;
-        max-height: none;
-    }
-    .header .menu-icon {
-        display: none;
-    }
+  .header {
+      height: 13%;
+  }
+  .header li {
+      float: left;
+  }
+  .header li a {
+      padding: 20px 30px;
+  }
+  .header .menu {
+      clear: none;
+      float: right;
+      max-height: none;
+  }
+  .header .menu-icon {
+      display: none;
+  }
 }
