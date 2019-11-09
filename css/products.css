@@ -10,15 +10,8 @@
 * {
   box-sizing: border-box;
 }
-body{
-	margin:0;
-}
-
-#prodname{
-	margin-top:2em;
-	background-color: tomato;
-  color: white;
-  padding: 10px;
+section{
+	margin-top:0;
 }
 
 
