@@ -21,8 +21,9 @@ section{
 }
 .columns {
   float: left;
-  width: 33.3%;
+  width: 100%;
   padding: 8px;
+	display:block;
 }
 
 .products {
