@@ -10,23 +10,17 @@
 * {
   box-sizing: border-box;
 }
-
-#prodbody{
-	padding:10px;
-	background-color:#00BFFF;
+body{
+	margin:0;
 }
+
 #prodname{
-	margin-top:3.5em;
-	padding:10px;
-	background-color:#00BFFF;
-	text-align: center;
+	margin-top:2em;
+	background-color: tomato;
+  color: white;
+  padding: 10px;
 }
 
-.columns {
-  float: left;
-  width: 33.3%;
-  padding: 8px;
-}
 
 
 /*-------------------------------------------------------------------*/
