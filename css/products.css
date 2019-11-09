@@ -17,7 +17,7 @@ section{
 	margin-top:3em;
 	text-align:center;
 	color:white;
-	font-size:2.618em;
+	font-size:4.236em;
 }
 .columns {
   float: left;
@@ -27,7 +27,6 @@ section{
 }
 
 .products {
-  list-style-type: none;
   border: solid #eee;
   margin: 0;
   padding: 0;
