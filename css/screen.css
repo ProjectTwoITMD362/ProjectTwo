@@ -103,9 +103,9 @@ body{
 
 /*==========FOOTER STYLE-----------*/
 
-footer{
+.footer{
   color: white;
-  background-color:#079AE1;
+  background-color:none; /*need to reviist the footer style*/
   left: 0;
   bottom: 0;
   width: 100%;
@@ -114,10 +114,10 @@ footer{
   text-align: center;
   height:100px;
 }
-
-footer p {
-	font-family: Noto Sans;
+.footer .copyright{
+	font-size:0.618em;
 }
+
 /*-------------------------------------------------------------------*/
                           /*For Tablet Viewing*/
 /*-------------------------------------------------------------------*/
