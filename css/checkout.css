@@ -42,6 +42,8 @@ input[type=submit] {
     margin-bottom: 80px;
 }
 
+
+/* Below is for the information about the website*/
 #fname {
   margin-top: 150px;
 }
@@ -62,7 +64,7 @@ input[type=submit] {
     font-size: 35px;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
-
+/*Above is for the information about the website*/
 
 /*-------------------------------------------------------------------*/
                           /*For Tablet Viewing*/
@@ -247,17 +249,3 @@ input[type=submit] {
 
 /*-------------------------------------------------------------------*/
 /*-------------------------------------------------------------------*/
-  input[type=submit] {
-    margin-left: 25%;
-    background-color: #4CAF50;
-    color: white;
-    font-size: 50px;
-    width: 14em;
-    height: 3em;
-    padding: 50px 100px;
-    border-radius: 8px;
-    cursor: pointer;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-    margin-bottom: 80px;
-  }
-}
