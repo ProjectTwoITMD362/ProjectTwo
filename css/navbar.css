@@ -23,6 +23,7 @@ a {
 .header ul {
     margin: 0;
     padding: 0;
+    display:none;
     list-style: none;
     overflow: hidden;
     background-color: #fff;
@@ -169,6 +170,7 @@ a {
   .header ul {
       margin: 0;
       padding: 0;
+      display:none;
       list-style: none;
       overflow: hidden;
       background-color: #fff;
@@ -311,6 +313,7 @@ a {
   .header ul {
       margin: 0;
       padding: 0;
+      display:none;
       list-style: none;
       overflow: hidden;
       background-color: #fff;
@@ -454,6 +457,7 @@ a {
   .header ul {
       margin: 0;
       padding: 0;
+      display:none;
       list-style: none;
       overflow: hidden;
       background-color: #fff;
@@ -596,6 +600,7 @@ a {
     .header ul {
         margin: 0;
         padding: 0;
+        display:none;
         list-style: none;
         overflow: hidden;
         background-color: #fff;
