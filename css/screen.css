@@ -101,11 +101,12 @@ body{
     margin-top:50%
 }
 
+
 /*==========FOOTER STYLE-----------*/
 
 .footer{
   color: white;
-  background-color:none; /*need to reviist the footer style*/
+  background-color: inherit; /*need to reviist the footer style*/
   left: 0;
   bottom: 0;
   width: 100%;
