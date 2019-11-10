@@ -96,7 +96,7 @@ section{
 }
 .columns {
   float: left;
-  width: 100%;
+  width: 33.3%;
 	padding-top:0em;
 	padding: 0 2em 0 2em;
 	display:inline-block;
