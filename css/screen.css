@@ -14,13 +14,14 @@ body{
     background-color: #173753; /* Green */
     border: none;
     color: white;
-    padding: 40px 80px;
+    padding: 60px 80px;
     text-align: center;
     display: inline-block;
     font-size: 40px;
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
+    position:center;
     width: 81%;
     margin-left: 10%;
     margin-top: 100px;
@@ -45,6 +46,7 @@ body{
      border-radius: 5px;
      -webkit-transition-duration: 0.4s; /* Safari */
      transition-duration: 0.4s;
+     position:center;
      width: 65%;
      margin-left: 10%;
      margin-top: 150px;
@@ -64,6 +66,7 @@ body{
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
+    position:center;
     width: 81%;
     margin-left: 10%;
     margin-top: 100px;
@@ -83,6 +86,7 @@ body{
     cursor: pointer;
     -webkit-transition-duration: 0.4s; /* Safari */
     transition-duration: 0.4s;
+    position:center;
     width: 40%;
     margin-left: 29%;
     margin-top: 100px;
@@ -98,9 +102,11 @@ body{
     text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
 }
 #homeImage{
-    margin-left: 25%;
-    margin-top: 20%;
-
+  max-width:45%;
+  max-height:45%;
+  width: 100%;
+  text-align: center;
+  margin-top:50%
 }
 
 /*-------------------------------------------------------------------*/
@@ -125,6 +131,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 81%;
       margin-left: 10%;
       margin-top: 100px;
@@ -149,12 +156,12 @@ body{
        border-radius: 5px;
        -webkit-transition-duration: 0.4s; /* Safari */
        transition-duration: 0.4s;
+       position:center;
        width: 65%;
        margin-left: 10%;
        margin-top: 150px;
        box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
       margin-bottom: 40px;
-      text-decoration:none;
 
   }
 
@@ -169,6 +176,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 81%;
       margin-left: 10%;
       margin-top: 100px;
@@ -188,6 +196,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 40%;
       margin-left: 29%;
       margin-top: 100px;
@@ -229,8 +238,8 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 81%;
-      text-decoration:none;
       margin-left: 10%;
       margin-top: 100px;
       box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
@@ -254,6 +263,7 @@ body{
        border-radius: 5px;
        -webkit-transition-duration: 0.4s; /* Safari */
        transition-duration: 0.4s;
+       position:center;
        width: 65%;
        margin-left: 10%;
        margin-top: 150px;
@@ -273,6 +283,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 81%;
       margin-left: 10%;
       margin-top: 100px;
@@ -292,6 +303,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 40%;
       margin-left: 29%;
       margin-top: 100px;
@@ -338,6 +350,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 81%;
       margin-left: 10%;
       margin-top: 100px;
@@ -362,6 +375,7 @@ body{
        border-radius: 5px;
        -webkit-transition-duration: 0.4s; /* Safari */
        transition-duration: 0.4s;
+       position:center;
        width: 65%;
        margin-left: 10%;
        margin-top: 150px;
@@ -381,6 +395,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 81%;
       margin-left: 10%;
       margin-top: 100px;
@@ -400,6 +415,7 @@ body{
       cursor: pointer;
       -webkit-transition-duration: 0.4s; /* Safari */
       transition-duration: 0.4s;
+      position:center;
       width: 40%;
       margin-left: 29%;
       margin-top: 100px;
@@ -440,6 +456,7 @@ body{
         cursor: pointer;
         -webkit-transition-duration: 0.4s; /* Safari */
         transition-duration: 0.4s;
+        position:center;
         width: 81%;
         margin-left: 10%;
         margin-top: 100px;
@@ -464,6 +481,7 @@ body{
          border-radius: 5px;
          -webkit-transition-duration: 0.4s; /* Safari */
          transition-duration: 0.4s;
+         position:center;
          width: 65%;
          margin-left: 10%;
          margin-top: 150px;
@@ -483,6 +501,7 @@ body{
         cursor: pointer;
         -webkit-transition-duration: 0.4s; /* Safari */
         transition-duration: 0.4s;
+        position:center;
         width: 81%;
         margin-left: 10%;
         margin-top: 100px;
@@ -502,6 +521,7 @@ body{
         cursor: pointer;
         -webkit-transition-duration: 0.4s; /* Safari */
         transition-duration: 0.4s;
+        position:center;
         width: 40%;
         margin-left: 29%;
         margin-top: 100px;
