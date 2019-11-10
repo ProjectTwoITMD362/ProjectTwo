@@ -36,7 +36,6 @@ section{
 
 .prodimage{
 	width:100%;
-	height:100%;
 }
 .products:hover {
   box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
@@ -49,7 +48,7 @@ section{
 	border:none;
 }
 
-.products p {
+.products p, h2{
 	border-left:#eee 15px solid;
 	border-right:#eee 15px solid;
   background-color: white;
