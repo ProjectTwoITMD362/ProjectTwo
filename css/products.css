@@ -96,7 +96,7 @@ section{
 }
 .columns {
   float: left;
-  width: 33.3%;
+  width: 100%;
 	padding-top:0em;
 	padding: 0 2em 0 2em;
 	display:inline-block;
@@ -233,14 +233,154 @@ section{
 
 @media only screen and (min-width: 600px) {
 
+* {
+  box-sizing: border-box;
+}
+section{
+	border-top:2px solid;
+}
+.prodheader{
+	margin-top:2em;
+	margin-bottom:1em;
+	text-align:center;
+	color:white;
+	font-size:2.236em;
+}
+.columns {
+  float: left;
+  width: 33.3%;
+	padding-top:0em;
+	padding: 0 2em 0 2em;
+	display:inline;
+}
 
+.products {
+	color:white;
+	background-color:#eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.prodimage{
+	width:100%;
+}
+.products:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.products .productname {
+  background-color: #00BFFF;
+  color: white;
+  font-size: 4.236em;
+	margin-top:0;
+	padding-top:0;
+	border:none;
+}
+
+
+.products p{
+	border-left:#eee 15px solid;
+	border-right:#eee 15px solid;
+	color: black;
+  padding: 1em;
+  text-align: center;
+	font-size: 2.618em;
+}
+
+.products .grey {
+  background-color: #eee;
+  font-size: 2.618em;
+	color: black;
+}
+
+.button {
+  background-color:#00BFFF;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1em;
+}
 /*----------------------------------------------------------------------------*/
 /*----------------------------------------------------------------------------*/
 
   @media only screen and (max-width: 600px){
 
   
+* {
+  box-sizing: border-box;
+}
+section{
+	border-top:2px solid;
+}
+.prodheader{
+	margin-top:2em;
+	margin-bottom:1em;
+	text-align:center;
+	color:white;
+	font-size:4.236em;
+}
+.columns {
+  float: left;
+  width: 100%;
+	padding-top:0em;
+	padding: 0 2em 0 2em;
+	display:inline;
+}
 
+.products {
+	color:white;
+	background-color:#eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.prodimage{
+	width:100%;
+}
+.products:hover {
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+.products .productname {
+  background-color: #00BFFF;
+  color: white;
+  font-size: 4.236em;
+	margin-top:0;
+	padding-top:0;
+	border:none;
+}
+
+
+.products p{
+	border-left:#eee 15px solid;
+	border-right:#eee 15px solid;
+	color: black;
+  padding: 1em;
+  text-align: center;
+	font-size: 2.618em;
+}
+
+.products .grey {
+  background-color: #eee;
+  font-size: 2.618em;
+	color: black;
+}
+
+.button {
+  background-color:#00BFFF;
+  border: none;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1em;
+}
 
 /*-------------------------------------------------------------------*/
 /*-------------------------------------------------------------------*/
