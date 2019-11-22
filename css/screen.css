@@ -6,6 +6,10 @@
 /*-------------------------------------------------------------------*/
                             /* MOBILE */
 /*-------------------------------------------------------------------*/
+/*
+ Color Palette:
+ https://coolors.co/0071f3-00bfff-23c9ff-ffffff-173753
+*/
 
 /* HOME PAGE */
 body {
@@ -46,7 +50,7 @@ body {
   margin-left: 10%;
   margin-top: 150px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  margin-bottom: 40px;
+  margin-bottom: 60px;
 }
 .button3 {
   background-color: #173753; /* Green */
@@ -457,7 +461,7 @@ a {
     max-height:45%;
     width: 100%;
     text-align: center;
-    margin-top:50%
+    margin-top:30%
   }
   /*==========FOOTER STYLE==========*/
   .footer {
