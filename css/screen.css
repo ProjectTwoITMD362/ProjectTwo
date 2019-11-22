@@ -296,7 +296,7 @@ a {
 .header .logo {
   display: block;
   float: left;
-  padding-top: 25px;
+  padding-top: 20px;
   padding-left: 20px;
   font-size: 20px;
   text-decoration: none;
@@ -916,7 +916,7 @@ a {
  .header .logo {
    display: block;
    float: left;
-   padding-top: 25px;
+   padding-top: 35px;
    padding-left: 20px;
    font-size: 20px;
    text-decoration: none;
