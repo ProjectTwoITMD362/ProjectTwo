@@ -267,6 +267,10 @@ input[type=submit] {
   background-color: #00BFFF;
   margin: 0;
 }
+#checkoutMessage {
+  background-color: white;
+  width: 75%;
+}
 
 /* NAVBAR */
 a {
@@ -877,6 +881,19 @@ a {
     cursor: pointer;
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     margin-bottom: 80px;
+  }
+  #subject {
+    width: 75%;
+    padding: 50px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-sizing: border-box;
+    margin-top: 100px;
+    margin-bottom: 16px;
+    resize: initial;
+    font-size: 35px;
+    margin-left: 130px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   }
 
   /* POST ORDER */
