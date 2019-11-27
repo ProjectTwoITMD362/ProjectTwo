@@ -261,6 +261,11 @@ input[type=submit] {
 #fname {
   margin-top: 150px;
 }
+textarea{
+	height:500px;
+	position:relative;
+	left: 8em;
+}
 
 /* POST ORDER */
 #postOrderBody{
