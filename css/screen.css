@@ -99,53 +99,9 @@ body {
   margin-left: 25%;
   margin-top: 20%;
 }
+
 /* PRODUCTS */
-  #prodcutspage {
-    background-color: #00BFFF;
-  }
-  #prodHeader {
-    background-color: white;
-    padding-top: 10px;
-  }
-  #h1 {
-    color: #00BFFF;
-    text-align: center;
-    font-size: 5em; /* 120 px*/
-    padding: 1em; /* 22px */
-  }
-  
-  #Ultrasound_Table {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Time_Meter {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #PACS_Workstations {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Mammoviewer_AVS {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Exam_Table {
-    height: 18em;
-    width: 15em;
-    position: absolute;
-  }
-  #product1_header {
-    float: right;
-    font-size: 3em;
-  }
-  #prodcutspage {
-     border-top:2px solid;
-  }
+ 
   .prodheader {
     margin-top:3em;
     text-align:center;
@@ -201,7 +157,6 @@ body {
     text-decoration: none;
     font-size: 1em;
   }
-
 
 /* CHECKOUT */
 h3{
@@ -467,53 +422,9 @@ a {
   }
   /*==========FOOTER STYLE==========*/
 
-  /* PRODUCTS */
-  #prodcutspage {
-    background-color: #00BFFF;
-  }
-  #prodHeader {
-    background-color: white;
-    padding-top: 10px;
-  }
-  #h1 {
-    color: #00BFFF;
-    text-align: center;
-    font-size: 5em; /* 120 px*/
-    padding: 1em; /* 22px */
-  }
   
-  #Ultrasound_Table {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Time_Meter {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #PACS_Workstations {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Mammoviewer_AVS {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Exam_Table {
-    height: 18em;
-    width: 15em;
-    position: absolute;
-  }
-  #product1_header {
-    float: right;
-    font-size: 3em;
-  }
-  #prodcutspage {
-     border-top:2px solid;
-  }
+/* PRODUCTS */
+ 
   .prodheader {
     margin-top:3em;
     text-align:center;
@@ -569,6 +480,7 @@ a {
     text-decoration: none;
     font-size: 1em;
   }
+
 
   /* CHECKOUT */
   h3 {
@@ -724,53 +636,9 @@ a {
     margin-left: 25%;
     margin-top: 20%;
   }
-	/* PRODUCTS */
-  #prodcutspage {
-    background-color: #00BFFF;
-  }
-  #prodHeader {
-    background-color: white;
-    padding-top: 10px;
-  }
-  #h1 {
-    color: #00BFFF;
-    text-align: center;
-    font-size: 5em; /* 120 px*/
-    padding: 1em; /* 22px */
-  }
-  
-  #Ultrasound_Table {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Time_Meter {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #PACS_Workstations {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Mammoviewer_AVS {
-    height: 18em;
-    width: 15em;
-    position: relative;
-  }
-  #Exam_Table {
-    height: 18em;
-    width: 15em;
-    position: absolute;
-  }
-  #product1_header {
-    float: right;
-    font-size: 3em;
-  }
-  #prodcutspage {
-     border-top:2px solid;
-  }
+	
+/* PRODUCTS */
+ 
   .prodheader {
     margin-top:3em;
     text-align:center;
@@ -826,6 +694,7 @@ a {
     text-decoration: none;
     font-size: 1em;
   }
+
 
   /* CHECKOUT */
   h3 {
