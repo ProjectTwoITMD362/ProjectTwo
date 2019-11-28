@@ -885,9 +885,9 @@ a {
   }
   .columns {
     float: left;
-    width: 100%;
+    width: 20em;
     padding: 8px;
-    display:inline-block;
+    display:inline;
   }
   .products {
     color:white;
@@ -898,8 +898,8 @@ a {
     transition: 0.3s;
   }
   .prodimage{
-    width:50%;
-		height: 50%;
+    width:20em;
+		height: 20em;
   }
   .products:hover {
     box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
