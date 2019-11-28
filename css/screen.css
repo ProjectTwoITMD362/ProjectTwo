@@ -924,7 +924,18 @@ a {
     font-size: 1.618em;
     color: black;
   }
-	
+	.products .text1{
+		padding-bottom: 6em;
+	}
+	.products .text2{
+		padding-bottom: 5em;
+	}
+	.products .text3{
+		padding-bottom: 6em;
+	}
+	.products .text4{
+		padding-bottom: 5em;
+	}
   .button {
     background-color:#00BFFF;
     border: none;
