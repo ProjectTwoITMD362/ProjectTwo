@@ -233,7 +233,7 @@ h3{
 #checkoutpage{
   margin: 0;
 }
-input[type=text], select, textarea {
+input[type=text], select, textarea, #subject{
   width: 75%;
   padding: 50px;
   border: 1px solid #ccc;
