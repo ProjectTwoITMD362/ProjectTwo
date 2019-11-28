@@ -923,7 +923,9 @@ a {
     background-color: #eee;
     font-size: 1.618em;
     color: black;
+		height: .5em;
   }
+	
   .button {
     background-color:#00BFFF;
     border: none;
