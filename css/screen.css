@@ -16,24 +16,6 @@ body {
   background-color: #00BFFF;
   margin: 0;
 }
-.button1 {
-  background-color: #173753; /* Green */
-  border: none;
-  color: white;
-  padding: 40px 80px;
-  text-align: center;
-  display: inline-block;
-  font-size: 40px;
-  cursor: pointer;
-  -webkit-transition-duration: 0.4s; /* Safari */
-  transition-duration: 0.4s;
-  width: 81%;
-  margin-left: 10%;
-  margin-top: 100px;
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
-  border-radius: 8px;
-  margin-bottom: 80px;
-}
 .button2 {
   background-color: #173753; /* Green */
   border: none;
@@ -48,7 +30,7 @@ body {
   transition-duration: 0.4s;
   width: 65%;
   margin-left: 10%;
-  margin-top: 15px;
+  margin-top: 1px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   margin-bottom: 60px;
 }
